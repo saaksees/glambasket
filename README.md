@@ -9,7 +9,7 @@ GLAMBASKET is a full-stack data science + machine learning project that simulate
 -  **Association Rule Mining**  
   Discover frequently bought-together product bundles using Apriori.
 
--  **Rule-Based Product Recommender**  
+-  **Rule-Based Product Recommender**
   Suggest co-purchased items based on lift and confidence.
 
 -  **Customer Segmentation**  
